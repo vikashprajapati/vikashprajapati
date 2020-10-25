@@ -5,7 +5,6 @@
 💡 &nbsp;I like to explore new technologies and develop web applications.\
 🎓 &nbsp;I'm currently studying Computer Science at Department of Computer Science, University of Delhi.\
 ✍️ &nbsp;In my free time, I pursue Photography and making videos as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 📄 &nbsp;Please have a look at my [Résumé](https://vikashprajapati.github.io/vikashprajapati.github.io/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://github.com/vikashprajapati/vikashprajapati/blob/main/assets/Night-Coding.gif" align="right"/>
