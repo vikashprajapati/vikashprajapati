@@ -8,7 +8,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 📄 &nbsp;Please have a look at my [Résumé](https://vikashprajapati.github.io/vikashprajapati.github.io/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/vikashprajapati/vikashprajapati/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/vikashprajapati/vikashprajapati/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
