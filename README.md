@@ -28,7 +28,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/vikashprajapati">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikashprajapati&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
