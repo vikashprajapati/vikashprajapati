@@ -13,9 +13,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-339333?style=flat&logo=java)&nbsp;
-![Android](https://img.shields.io/badge/-Android-87fb33?style=flat&logo=android)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-456f33?style=flat&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=00ffff)&nbsp;
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
