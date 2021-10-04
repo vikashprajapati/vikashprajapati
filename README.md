@@ -28,8 +28,8 @@ I write technical blogs and also loves to share my travel journeys.
 * <a target="_blank" href="https://medium.com/@NomadicProgramr/broadcast-receiver-in-android-5136d93fbea3">Broadcast Receiver in Android</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
-  <img alt="My Github stats" align="left" border-radius="40px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashprajapati&layout=compact" alt="Vikash Stats">
-  <img align="right" border-radius="40px" width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikashprajapati&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+  <img alt="My Github stats" align="left" border-radius="40px" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashprajapati&layout=compact" alt="Vikash Stats">
+  <img align="right" border-radius="40px" width="380px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vikashprajapati&show_icons=true&theme=react&include_all_commits=true&count_private=true">
 <br>
 
 
