@@ -21,7 +21,7 @@
 
 ### ✍Blogs
 I write technical blogs and also loves to share my travel journeys.
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/1">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
