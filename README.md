@@ -2,17 +2,19 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop web applications.\
-🎓 &nbsp;I'm currently studying Computer Science at Department of Computer Science, University of Delhi.\
-✍️ &nbsp;In my free time, I pursue Photography and making videos as my hobbies.\
-📄 &nbsp;Please have a look at my [Résumé](https://vikashprajapati.github.io/vikashprajapati.github.io/resume.pdf) for more details about me. I'm open to feedback and suggestions!
+👨‍💻 &nbsp;A Passionate Android🤖 Developer and a Traveler🗺️.\
+🎓 &nbsp;I completed my masters(MCA) from Department of Computer Science, University of Delhi.\
+🚀 &nbsp;Currently I am learing Kotlin and Android Jetpack.\
+✍🏻 &nbsp;I write technical blogs and loves to write about my travel experiences.\
+📄 &nbsp;Please have a look at my [Résumé](https://vikashprajapati.github.io/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://github.com/vikashprajapati/vikashprajapati/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+### Languages
+<img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=javascript" alt="javascript">
+<img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="c++">
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=00ffff)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
