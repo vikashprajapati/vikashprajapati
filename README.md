@@ -10,16 +10,18 @@
 
 <img alt="Night Coding" src="https://github.com/vikashprajapati/vikashprajapati/blob/main/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
-
-### Languages
+### 🧮Languages
 <img src="https://img.shields.io/badge/-C++-303030?style=for-the-badge&logo=C%2B%2B&logoColor=00599C" alt="C++"> <img src="https://img.shields.io/badge/-Php-303030?style=for-the-badge&logo=PHP&logoColor=00599C" alt="PHP"> <img src="https://img.shields.io/badge/-Java-303030?style=for-the-badge&logo=java" alt="Java"> <img src="https://img.shields.io/badge/javascript-303030?style=for-the-badge&logo=javascript" alt="Javascript">
 
-### Technologies
+### 👨‍💻Technologies
 <img src="https://img.shields.io/badge/-Android-303030?style=for-the-badge&logo=android" alt="Android"> <img src="https://img.shields.io/badge/-HTML-303030?style=for-the-badge&logo=HTML5" alt="HTML"> <img src="https://img.shields.io/badge/-CSS-303030?style=for-the-badge&logo=CSS3" alt="CSS"> <img src="https://img.shields.io/badge/Bootstrap-303030?style=for-the-badge&logo=bootstrap" alt="Bootstrap"> <img src="https://img.shields.io/badge/-Tailwind-303030?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
 
-### Tools
+### 🧰Tools
 <img src="https://img.shields.io/badge/-Git-303030?style=for-the-badge&logo=git" alt="Git"> <img src="https://img.shields.io/badge/-Github-303030?style=for-the-badge&logo=github" alt="github"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-303030?style=for-the-badge&logo=visual-studio-code" alt="Visual Studio Code">
+
+### ✍Blogs
+I write technical blogs and also loves to share my travel journeys.
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/0" alt="Recent Article 0">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
