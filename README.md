@@ -13,22 +13,14 @@
 ### 🛠 &nbsp;Tech Stack
 
 ### Languages
-<img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=javascript" alt="javascript">
-<img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="c++">
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=00ffff)&nbsp;
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Tailwind Css](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=56647C)\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+<img src="https://img.shields.io/badge/-C++-303030?style=for-the-badge&logo=C%2B%2B&logoColor=00599C" alt="C++"><img src="https://img.shields.io/badge/-Php-303030?style=for-the-badge&logo=PHP&logoColor=00599C" alt="PHP"><img src="https://img.shields.io/badge/-Java-303030?style=for-the-badge&logo=java" alt="Java"><img src="https://img.shields.io/badge/javascript-303030?style=for-the-badge&logo=javascript" alt="Javascript">
+
+### Technologies
+<img src="https://img.shields.io/badge/-Android-303030?style=for-the-badge&logo=android" alt="Android">
+<img src="https://img.shields.io/badge/-HTML-303030?style=for-the-badge&logo=HTML5" alt="HTML"><img src="https://img.shields.io/badge/-CSS-303030?style=for-the-badge&logo=CSS3" alt="CSS"><img src="https://img.shields.io/badge/Bootstrap-303030?style=for-the-badge&logo=bootstrap" alt="Bootstrap"><img src="https://img.shields.io/badge/-Tailwind-303030?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS">
+
+### Tools
+<img src="https://img.shields.io/badge/-Git-303030?style=for-the-badge&logo=git" alt="Git"><img src="https://img.shields.io/badge/-Github-303030?style=for-the-badge&logo=github" alt="github"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-303030?style=for-the-badge&logo=visual-studio-code" alt="Visual Studio Code">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
