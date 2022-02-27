@@ -28,9 +28,12 @@
 ### ✍Blogs
 I write technical blogs and also loves to share my travel journeys.
 
-* <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/1">Compiling Iperf 3 for Android</a>
-* <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/0">Interview Experience</a>
+* <a target="_blank" href="https://medium.com/@NomadicProgramr/adobe-interview-experience-2022-7e7110812bc4">Adobe Interview Experience 2022</a>
+* <a target="_blank" href="https://medium.com/@NomadicProgramr/android-multithreading-handler-looper-288c71394697">Android Multithreading(Handler& Looper)</a>
+* <a target="_blank" href="https://medium.com/@NomadicProgramr/the-first-step-my-first-solo-travel-journey-a9e7e9a36d3e">The First Step : My First Solo Travel Journey</a>
+* <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/0">Amazon Offcampus Interview Experience 2021</a>
 * <a target="_blank" href="https://medium.com/@NomadicProgramr/broadcast-receiver-in-android-5136d93fbea3">Broadcast Receiver in Android</a>
+* <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nomadicprogramr/1">Compiling Iperf 3 for Android</a>
 
 <br>
 
