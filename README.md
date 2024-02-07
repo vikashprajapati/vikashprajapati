@@ -7,7 +7,7 @@
 🚀 &nbsp;Currently I am learning Kotlin and Android Jetpack.\
 ✍🏻 &nbsp;I write technical blogs and loves to write about my travel experiences.\
 📚 &nbsp;I like reading books.\
-📄 &nbsp;Please have a look at my [Resume](https://vikashprajapati.github.io/resume.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://vikashprajapati.github.io/vikash_resume_2024.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://github.com/vikashprajapati/vikashprajapati/blob/main/assets/Night-Coding.gif" align="right"/>
 
